@@ -33,7 +33,7 @@ rails 5.1.1
 * ダイレクトメール
 
 ## テーブル定義、画面遷移図および画面ワイヤーフレーム
-https://docs.google.com/spreadsheets/d/1LGctledZf-OlECeHJvNH_O0ISf_wBlbB0ZKse8R9UVU/edit#gid=0
+https://docs.google.com/spreadsheets/d/1LGctledZf-OlECeHJvNH_O0ISf_wBlbB0ZKse8R9UVU/edit?usp=sharing
 
 ## 使用予定gem
 * gem 'letter_opener_web'
